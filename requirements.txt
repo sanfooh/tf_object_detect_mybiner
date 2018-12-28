@@ -1,0 +1,9 @@
+tensorflow
+keras
+numpy
+matplotlib
+pandas
+Cython
+opencv-python
+pillow
+lxml
